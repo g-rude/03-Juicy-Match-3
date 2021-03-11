@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/elephant.wav-01ba8d269a06aee3252070bccf9ae7fe.sample"
+
+[deps]
+
+source_file="res://Assets/elephant.wav"
+dest_files=[ "res://.import/elephant.wav-01ba8d269a06aee3252070bccf9ae7fe.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

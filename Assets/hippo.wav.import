@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hippo.wav-1cf0c04ebf801828c317873dd38c2a4c.sample"
+
+[deps]
+
+source_file="res://Assets/hippo.wav"
+dest_files=[ "res://.import/hippo.wav-1cf0c04ebf801828c317873dd38c2a4c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
